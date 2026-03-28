@@ -48,4 +48,5 @@ This project analyzes 298 players and 381 matches from the 2023/24 Premier Leagu
 ## Author
 
 Bilge Han Erduran — CS Student | Aspiring Data Analyst
+
 github.com/bherduran
