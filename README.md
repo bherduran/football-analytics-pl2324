@@ -2,6 +2,11 @@
 
 A complete end-to-end data analysis project built in Python, covering player performance, match statistics, and statistical testing on real Premier League data.
 
+## 🔗 Live Dashboard
+**[football-analytics-bhe.streamlit.app](https://football-analytics-bhe.streamlit.app)**
+
+Interactive dashboard built with Streamlit — no installation required.
+
 ## Project Overview
 
 This project analyzes 298 players and 381 matches from the 2023/24 Premier League season to answer real analytical questions using Python, Pandas, SQL, and statistics.
