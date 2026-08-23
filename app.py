@@ -61,7 +61,7 @@ page = st.sidebar.radio("Go to", [
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
 **Bilge Han Erduran**  
-CS Student | Aspiring Data Analyst  
+SWE Student 
 [GitHub](https://github.com/bherduran) · [Project](https://github.com/bherduran/football-analytics-pl2324)
 """)
 
